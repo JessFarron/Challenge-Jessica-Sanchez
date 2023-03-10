@@ -1,0 +1,117 @@
+
+body {background-color: #d9dcd6;}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;}
+
+nav {padding:20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;}
+
+.ImgFondo {
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    height: 800px;
+    background-size: cover;
+    background-position: center;}
+
+ h1 {display: inline-block;
+    font-size: 48px;
+    margin-right: 10px;}
+
+.seon { color: #d9dcd6;}
+
+
+a { font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 50px 30px 0px 5px;
+    float: right;}
+
+
+    .Portada {
+    height: 800px;
+    width: 100%;
+    }
+
+
+    p{ color: #ffffff;
+        font-size: 16px;
+    }
+    h2 {font-size: 36px;
+        color:#ffffff;} 
+    
+    .sectionSearch{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: #0072bb;
+        padding: 70px;
+        margin: 20px 0px;
+        height: fit-content;
+    }
+
+    .imagen1 {
+    max-height: 200px;
+    float: left;
+    margin-right:40px;}
+
+    .sectionOnline{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: #0072bb;
+        padding: 70px;
+        margin: 20px  0px 20px 0px;
+        height: fit-content;
+    }
+    .imagen2 {
+        max-height: 200px;
+        float: right;
+        margin-left:40px ;}
+    
+
+    .sectionMedia{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: #0072bb;
+        padding: 70px;
+        margin: 20px  0px 20px 0px;
+        height: fit-content;
+    }
+
+    .imagen3 {
+        float: left;
+        max-height: 200px;
+        margin-right:40px;}
+
+
+    aside {
+    margin-top: 20px;
+    margin-right: 10px;
+    padding-bottom: 40px; /*Is there a fx to equal all sections space¿?*/
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    float: right;
+    width: 20%;
+    height: 100%;}
+
+    h3{
+    color: #ffffff;
+    text-align: center;
+    }
+
+    .Sang {
+        padding: 0px 0px 0px 20px;}
+
+    .img4{
+        max-width: 150px;
+        display: block;
+        margin: auto;}
+    
+    .footer {
+    color: black;
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;}
+    
+    .titlefoot {font-size: 20px;}
